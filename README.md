@@ -161,7 +161,17 @@ java PercentageCalculatorApplet
 
 ---
 
-## 📸 Sample Output
+## 📸 Screenshots & Sample Output
+
+### 🖥️ AWT GUI Preview
+
+![AWT UI Preview](images/awt_ui_preview.png)
+
+### 🧩 AWT Component Showcase
+
+![AWT Component Showcase](images/awt_component_showcase.png)
+
+---
 
 ### CLI Output
 ```
@@ -182,7 +192,7 @@ Subject-wise Breakdown:
 ```
 
 ### GUI Output
-The result is displayed in the scrollable text area with the same structured format.
+The result is displayed in the scrollable text area with the same structured format as above.
 
 ---
 
